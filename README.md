@@ -8,7 +8,7 @@ I'm a backend developer specialized in building scalable web applications using 
 
 ## 🚀 Tech Stack
 
-* **Backend:** PHP, Laravel
+* **Backend:** PHP, Laravel, livewire, Filament
 * **Database:** MySQL
 * **Tools:** Git, GitHub, Composer
 * **Other:** REST APIs, MVC Architecture
